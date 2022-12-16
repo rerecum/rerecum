@@ -1,14 +1,13 @@
-### Hi there, I'm Nikodem - aka n.kodem 👋 
+### Siemano witam 👋 
 
 
 
-## I'm a Student!!
+## I'm a PRO programmer!!
 
 - 🔭 I'm actually working on pixel like game called "color wars"!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goal: Reach 1000 Commits
-- 🤡 Fun fact: I have no live
 
 <center>
 <img style="text-align: center; width: 95%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
@@ -124,6 +123,7 @@ Last Updated: Friday, December 16th, 2022, 9:55:37 AM
 </details>
 
 
-[instagram]: https://www.instagram.com/n.kodem
-[link]: https://github.com/n-kodem?tab=repositories
-[email]: (mailto:n.reszkax@gmail.com)
+[instagram]: https://www.instagram.com/42sekundy
+[youtube]: https://www.youtube.com/channel/UCyDya3bVvTRACSyQeKsxP7A
+[spotify]: https://open.spotify.com/artist/0HizCQxqwfchEpOQcxot8y?si=sQdZz-X9Ss26QbbEd1DH9w
+[email]: (mailto:kacperkacperkacper132@gmail.com)
