@@ -2,12 +2,11 @@
 
 
 
-## I'm a PRO programmer!!
+## I'm a PRO programmer!
 
 - Jestem w szkole technicznej na profilu technik-programista.
-- Uczę się: Python, Kotlin, Java, Php, HTML, css, C++, C#, MySQL.
-- Programuję, jak mi się chcę. Nie proś o pomoc.
-- Robię Muzyczkę i puszczam trochę dymu.
+- Uczę się: Python, Kotlin, JavaScript, PHP, HTML, CSS, C++, C#, MySQL, SQLite3, EJS.
+- Jestem inżynierem muzycznym - mixuje, masteruje i tworzę muzykę.
 
 
 - Instagram: https://www.instagram.com/42sekundy
