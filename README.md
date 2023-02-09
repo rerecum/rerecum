@@ -2,7 +2,7 @@
 
 
 
-## I'm a PRO programmer!
+## Uczeń ZSCHiE w Gdynii.
 
 - Jestem w szkole technicznej na profilu technik-programista.
 - Uczę się: Python, Kotlin, JavaScript, PHP, HTML, CSS, C++, C#, MySQL, SQLite3, EJS.
