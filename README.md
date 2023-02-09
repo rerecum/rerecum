@@ -2,7 +2,7 @@
 
 
 
-## Uczeń ZSCHiE w Gdynii.
+## Uczeń ZSCHiE | Gdynia
 
 - Jestem w szkole technicznej na profilu technik-programista.
 - Uczę się: Python, Kotlin, JavaScript, PHP, HTML, CSS, C++, C#, MySQL, SQLite3, EJS.
