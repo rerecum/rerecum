@@ -15,4 +15,4 @@
 - e-mail: kacperkacperkacper132@gmail.com
 
 
-<img style="text-align: center; width: 95%" alt="rerecum github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
+<img style="text-align: center; width: 95%" alt="rerecum github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerecum&layout=compact&theme=tokyonight&hide_border=true" />
