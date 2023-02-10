@@ -15,4 +15,9 @@
 - e-mail: kacperkacperkacper132@gmail.com
 
 
-<img style="text-align: center; width: 95%" alt="rerecum github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerecum&layout=compact&theme=tokyonight&hide_border=true" />
+<center>
+<img style="text-align: center; width: 95%" alt="rerecum GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rerecum&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img style="text-align: center; width: 95%" alt="rerecum Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerecum&layout=compact&theme=tokyonight&hide_border=true" />
+
+</center>
