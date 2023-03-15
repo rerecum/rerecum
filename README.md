@@ -15,9 +15,3 @@
 <img style="text-align: center; width: 95%" alt="rerecum Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerecum&layout=compact&theme=tokyonight&hide_border=true" />
 
 </center>
-<br>
-
-- Instagram: https://www.instagram.com/42sekundy
-- Youtube: https://www.youtube.com/channel/UCyDya3bVvTRACSyQeKsxP7A
-- Spotify: https://open.spotify.com/artist/0HizCQxqwfchEpOQcxot8y?si=sQdZz-X9Ss26QbbEd1DH9w
-- e-mail: kacperkacperkacper132@gmail.com
